@@ -1,13 +1,16 @@
+image.png
+ 
 # CrashMatch
 
 ### Your Road to Recovery Starts Here
 
 **After the Crash, We Find the Right Match.**
 
----
 
-## Overview
+A marketplace that connects drivers with trusted lawyers, insurance assistance providers, body shops, towing companies, and rental car services after an accident.
 
+``
+Show more lines
 CrashMatch is a comparison platform inspired by Trivago that helps drivers find and compare accident-related services after a vehicle collision.
 
 Instead of spending hours researching providers, users can compare trusted professionals in one place, including attorneys, insurance claim assistance providers, and collision repair shops.
